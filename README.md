@@ -8,7 +8,7 @@ The research involved a quantitative approach with a comprehensive survey conduc
   
 ### Data Collection
 - **Survey Instruments**: Participants completed standardized questionnaires measuring self-esteem (Rosenberg Self-Esteem Scale), trait anxiety (State-Trait Anxiety Inventory), and social identity (Social Identity Scale).
-- **Sample Size**: A total of 500 participants completed the survey, providing robust data for analysis.
+- **Sample Size**: A total of 200 participants completed the survey, providing robust data for analysis.
 
 ### Analysis Tools
 Data were analyzed using SPSS and Excel to ensure comprehensive statistical evaluation:
